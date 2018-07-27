@@ -1,0 +1,12 @@
+backpack
+bike
+breadboard
+headphones
+keyboard
+monitor
+mouse
+multimeter
+oscilloscope
+phones
+solderingiron
+wires

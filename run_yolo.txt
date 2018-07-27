@@ -1,0 +1,3 @@
+flow --model cfg/tiny-yolo-voc-3c.cfg --load bin/tiny-yolo-voc.weights --train --annotation train/Annotations --dataset train/Images
+
+python flow --model cfg/yolov2-12.cfg --load bin/yolov2.weights --train --annotation train/Annotations --dataset train/images --epochs 100
